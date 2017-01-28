@@ -11,4 +11,6 @@ package scannerdemo;
  */
 public class Scanner {
     
+    //Пустой!
+    
 }
